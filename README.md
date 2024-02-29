@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrish030
-- 👀 I’m interested in ...Frameworks of front-end development
-- 🌱 I’m currently learning ...Web development
+- 👀 Kotlin 
+- 🌱 I’m currently learning ...Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Shrish030@gamil.com
 
